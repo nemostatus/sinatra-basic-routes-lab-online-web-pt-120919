@@ -5,4 +5,5 @@ class App < Sinatra::Base
     "My name is __"
   end 
   
+  get ''
 end
